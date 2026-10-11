@@ -32,5 +32,5 @@ For more information on SQL queries, navigate to analysis.sql
 - Convert date time to weekday
 - Set duration of each trip in seconds
 - Check for duration with negative values 
-- Count rows with less than 60 seconds = 64220 rows
+- Count rows with less than 60 seconds
 - Delete rows with less than 60 seconds
