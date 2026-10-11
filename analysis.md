@@ -20,17 +20,17 @@ We also grouped the data using a pivot table
 
 For more information on SQL queries, navigate to analysis.sql
 
--- looking for duplicate records
--- looking for null values 
--- Making sure theres only two types of members
--- Looking for any errors/mispelling/inconsistencies in rideable types
--- count all total rows = 5860776
--- count all rows with empty strings. total rows with missing values = 1193477
--- delete all rows with empty strings
--- total rows after removing empty strings = 4667299 
--- Add new column for day of the week, ride length 
--- convert date time to weekday
--- set duration of each trip in seconds
--- check for duration with negative values 
--- count rows with less than 60 seconds = 64220 rows
--- delete rows with less than 60 seconds
+- Looking for duplicate records
+- Looking for null values 
+- Making sure theres only two types of members
+- Looking for any errors/mispelling/inconsistencies in rideable types
+- Count all total rows
+- Count all rows with empty strings. total rows with missing values
+- Delete all rows with empty strings
+- Total rows after removing empty strings
+- Add new column for day of the week, ride length 
+- Convert date time to weekday
+- Set duration of each trip in seconds
+- Check for duration with negative values 
+- Count rows with less than 60 seconds = 64220 rows
+- Delete rows with less than 60 seconds
